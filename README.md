@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/iqbalmudzakky/final_project/blob/main/bootcamp_notes/Bank-header.png" width=50% height=50%></p>
-<h2> BANK'S CUSTOMER DEFAULT PAYMENT PREDICTION</h2><br>
+<h2> BANK CUSTOMER DEFAULT PAYMENT PREDICTION</h2><br>
 by: Data Magician Team<br>
 Dataset : data train from [[source]](https://www.kaggle.com/datasets/reverie5/av-janata-hack-payment-default-prediction)
 
